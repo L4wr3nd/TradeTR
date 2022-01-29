@@ -1,0 +1,238 @@
+﻿Code;Country;E_Total
+4;Germany;17544881.092
+400;USA;13207644.693
+6;United Kingdom;12372140.466
+5;Italy;10323502.477
+612;Iraq;9970224.351
+11;Spain;8786285.481
+1;France;8109803.933
+3;Netherlands;6171187.672
+624;Israel;5664540.456
+75;Russia;5186535.288
+647;UAE;4894436.516
+66;Romania;4690524.713
+17;Belgium;4484750.341
+60;Poland;4253020.749
+220;Egypt;3908360.977
+68;Bulgaria;3568048.119
+720;China;3377764.282
+9;Greece;2812276.628
+72;Ukraine;2645854.607
+204;Morocco;2616397.096
+616;Iran;2536746.356
+216;Libya;2508274.025
+78;Azerbaijan;2120684.391
+608;Syria;1918856.862
+81;Uzbekistan;1693703.465
+91;Slovenia;1583708.506
+404;Canada;1564094.632
+30;Sweden;1553154.026
+208;Algeria;1528412.905
+76;Georgia;1526060.678
+61;Czech Republic;1515721.699
+604;Lebanon;1477063.877
+38;Austria;1383670.561
+10;Portugal;1354847.372
+98;Serbia;1350901.483
+64;Hungary;1302164.527
+212;Tunisia;1245367.132
+79;Kazakhstan;1180685.634
+8;Denmark;1171436.357
+39;Switzerland;1121559.058
+601;Turkish Rep. of Nor.Cyprus;1108526.036
+664;India;1104155.270
+644;Qatar;1049708.578
+653;Yemen;1031139.429
+740;Hong Kong;987657.748
+508;Brazil;963257.555
+80;Turkmenistan;917291.804
+800;Australia;886265.917
+28;Norway;863236.268
+728;South Korea;853146.487
+7;Ireland;839624.502
+73;Belarus;813371.628
+388;Rep. of South Africa;805555.114
+706;Singapore;795287.238
+288;Nigeria;775898.547
+412;Mexico;744097.493
+70;Albania;705700.815
+628;Jordan;701749.372
+662;Pakistan;671957.999
+83;Kyrgyzstan;662730.313
+46;Malta;633069.536
+636;Kuwait;620847.110
+63;Slovakia;599117.945
+93;Bosnia and Herzegovina;583272.327
+512;Chile;569532.747
+504;Peru;538898.087
+96;North Macedonia;510565.720
+95;Kosovo;499918.436
+666;Bangladesh;497123.289
+248;Senegal;486477.414
+32;Finland;468407.113
+649;Oman;458366.904
+92;Croatia;449190.759
+732;Japan;433042.378
+276;Ghana;414053.601
+74;Moldova;403961.368
+701;Malaysia;399253.447
+228;Mauritania;396882.228
+480;Colombia;393223.469
+272;Côte d'Ivoir;364916.760
+55;Lithuania;333977.394
+342;Somalia;313658.491
+690;Vietnam;304453.206
+334;Ethiopia;301349.763
+338;Djibouti;281023.270
+700;Indonesia;271244.131
+442;Panama;266143.601
+224;Sudan;263143.611
+484;Venezuela;260253.913
+268;Liberia;241089.621
+346;Kenya;237425.107
+632;Saudi Arabia;235851.575
+82;Tajikistan;234008.230
+660;Afghanistan;233474.083
+736;Taiwan;232856.442
+352;Tanzania;229052.000
+680;Thailand;214144.073
+456;Dominican Rep.;211583.586
+528;Argentina;207248.543
+260;Guinea;204821.438
+330;Angola;180743.911
+464;Jamaica;164310.453
+302;Cameroon;160227.653
+640;Bahrain;155512.786
+463;Cayman Islands;152644.168
+54;Latvia;147223.150
+284;Benin;138909.690
+824;Marshall Islands;135352.617
+452;Haiti;129533.637
+958;Countries and territories not specified;126322.657
+264;Sierra Leone;121896.610
+53;Estonia;117458.834
+804;New Zealand;116859.349
+416;Guatemala;113002.997
+280;Togo;109692.651
+97;Montenegro;104165.921
+708;Philippines;103773.168
+524;Uruguay;102569.770
+366;Mozambique;97997.280
+436;Costa Rica;90831.917
+625;State of Palestine;89538.170
+236;Burkina Faso;86439.171
+672;Nepal;86096.330
+669;Sri Lanka;84107.920
+472;Trinidad and Tobago;82704.429
+373;Mauritius;82633.056
+520;Paraguay;82301.277
+44;Gibraltar;81113.922
+318;Congo;76647.513
+232;Mali;74230.085
+324;Rwanda;73876.938
+240;Niger;73103.533
+252;Gambia;65453.144
+488;Guyana;64989.882
+424;Honduras;63297.448
+716;Mongolia;61310.030
+18;Luxembourg;61279.500
+370;Madagascar;58214.846
+350;Uganda;53262.356
+500;Ecuador;51106.412
+244;Chad;48337.312
+322;Democratic Rep. of the Congo;46939.980
+453;Bahamas;44636.971
+667;Maldives;44555.254
+516;Bolivia;43525.929
+314;Gabon;41057.171
+428;El Salvador;41028.805
+24;Iceland;28756.340
+492;Suriname;28309.077
+310;Equatorial Guinea;28290.161
+448;Cuba;28060.070
+837;Cook Islands;27291.302
+696;Cambodia;23849.394
+336;Eritrea;20560.662
+676;Myanmar;20157.809
+378;Zambia;18913.823
+469;Barbados;16455.909
+432;Nicaragua;16329.560
+375;Comoros;15526.273
+382;Zimbabwe;12861.084
+355;Seychelles;11260.056
+743;Macao;10738.018
+377;Mayotte;10569.655
+225;South Sudan;9954.578
+247;Cape Verde;9457.588
+257;Guinea-Bissau;9128.791
+703;Brunei Darussalam;8552.611
+459;Antigua and Barbuda;8121.824
+809;New Caledonia;8004.203
+421;Belize;7571.023
+816;Vanuatu;6544.192
+467;St. Vincent and Grenadines;5799.999
+822;French Polynesia;5275.010
+825;Palau;4287.420
+815;Fiji;4025.132
+311;Sao Tome And Principe;3969.565
+386;Malawi;3926.061
+306;Central African Rep.;3391.422
+449;St. Kitts and Nevis;3332.838
+389;Namibia;3259.584
+391;Botswana;3117.726
+37;Liechtenstein;2906.709
+801;Papua New Guinea;2861.668
+468;British Virgin Isl.;2378.245
+77;Armenia;2336.630
+328;Burundi;2202.578
+465;St. Lucia;2175.088
+460;Dominica;2147.183
+473;Grenada;2122.895
+457;USA Virgin Isl.;1441.011
+413;Bermuda;1274.815
+474;Aruba;1188.023
+831;Guam;1185.254
+807;Tuvalu;951.148
+832;USA Minor Outlying Islands;931.180
+684;Laos;925.409
+819;Samoa;914.973
+454;Turks And Caicos Isl;876.373
+329;St. Helena And Dep.;687.093
+41;Faroe Islands;590.526
+626;Timor-Leste;570.089
+393;Eswatini;541.354
+43;Andorra;508.735
+894;French Southern Territories;392.156
+47;San Marino;338.583
+812;Kiribati;336.708
+395;Lesotho;274.413
+357;British Ind.Oce.Ter.;255.630
+830;American Samoa;248.025
+817;Tonga;196.344
+446;Anguilla;119.736
+529;Falkland Islands;107.868
+823;Micronesia;100.721
+806;Solomon Isl.;83.886
+675;Bhutan;72.919
+838;Niue Island;70.041
+811;Vallis and Futuna;64.555
+839;Tokelau Islands;62.962
+406;Greenland;29.711
+475;Curaçao;12.120
+893;South Georgia and Sandwich. Isl.;11.671
+820;Northern Mariana Islands;2.919
+470;Montserrat;0.157
+21;Ceuta;0.128
+833;Cocos Islands;0.040
+408;St Pierre and Miquelon;0.020
+803;Nauru;0.012
+724;North Korea;0.000
+479;Sint Maarten;0.000
+836;Norfolk Islands;0.000
+891;Antarctica;0.000
+834;Christmas Islands;0.000
+45;Vatican City State;0.000
+813;Pitcairn;0.000
+23;Melilla;0.000
+892;Bouvet Islands;0.000
+466;Saint Barthelemy;0.000
